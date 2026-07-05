@@ -42,7 +42,7 @@ const Projects = () => {
           </div>
 
           <a
-            href="https://github.com/tashumalviya/AI-Enabled-Women-Safety-App"
+            href="https://github.com/tashumalviya/HerShield.git"
             target="_blank"
             rel="noreferrer"
             className="github-btn"
