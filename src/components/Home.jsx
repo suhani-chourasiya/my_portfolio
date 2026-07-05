@@ -1,5 +1,5 @@
 import { TypeAnimation } from "react-type-animation";
-import profile from "../assets/Profile.png";
+import profile from "../assets/profile.png";
 
 const Home = () => {
   return (
